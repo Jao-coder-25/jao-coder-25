@@ -8,8 +8,7 @@
 
 💻 Desenvolvedor Backend em formação  
 🚀 Focado em Java e Spring Boot  
-📚 Estudante de Engenharia de Software  
-🔥 Construindo projetos do mundo real  
+📚 Estudante de Engenharia de Software
 
 ---
 

@@ -2,7 +2,7 @@
 
 
 💻 Desenvolvedor Backend em formação  
-🚀 Focado em Java + Spring Boot + AWS  
+🚀 Focado em Java + Spring Boot + Spring Data JPA  
 📚 Estudante de Engenharia de Software
 
 

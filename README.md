@@ -2,7 +2,7 @@
 
 
 💻 Desenvolvedor Backend em formação  
-🚀 Focado em Java + Spring Boot + Spring Data JPA  
+🚀 API RESTs | Java | Spring Boot | Spring Data JPA | FLYWAY migration | JUnit 5 e Mockito | DOCKER | swagger/OpenAPi  
 📚 Estudante de Engenharia de Software
 
 
